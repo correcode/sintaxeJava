@@ -1,0 +1,13 @@
+package projeto;
+
+public class MinhaClasseJava {
+
+	public static void main(String[] args) {
+		
+		final String BR = "Alisson";
+		
+		System.out.println(BR);
+
+	}
+
+}
