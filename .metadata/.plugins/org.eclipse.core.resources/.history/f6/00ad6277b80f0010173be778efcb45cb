@@ -7,8 +7,8 @@ public class MinhaClasseJava {
 	String primeiroNome = "Alisson";
 	String segundoNome = "Correa";
 	
-	String nomeCompleto = nomeCompleto (primeiroNome, segundoNome);
-	System.out.println(nomeCompleto);
+	String nomeCompleto = nomecompleto (primeiroNome, segundoNome);
+	System.out.prinln(nomeCompleto);
 
 	}
 	

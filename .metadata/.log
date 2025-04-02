@@ -37,3 +37,16 @@ Command-line arguments:  -os macosx -ws cocoa -arch x86_64 -product org.eclipse.
 
 !ENTRY ch.qos.logback.classic 1 0 2025-04-01 18:12:17.407
 !MESSAGE Logback config file: /Users/alisson_dev/SintaxeJava/.metadata/.plugins/org.eclipse.m2e.logback/logback.2.7.0.20241001-1350.xml
+!SESSION 2025-04-02 08:29:59.637 -----------------------------------------------
+eclipse.buildId=4.35.0.20250306-0811
+java.version=24
+java.vendor=Azul Systems, Inc.
+BootLoader constants: OS=macosx, ARCH=x86_64, WS=cocoa, NL=pt_BR
+Framework arguments:  -product org.eclipse.epp.package.java.product -keyring /Users/alisson_dev/.eclipse_keyring
+Command-line arguments:  -os macosx -ws cocoa -arch x86_64 -product org.eclipse.epp.package.java.product -keyring /Users/alisson_dev/.eclipse_keyring
+
+!ENTRY ch.qos.logback.classic 1 0 2025-04-02 08:30:05.046
+!MESSAGE Activated before the state location was initialized. Retry after the state location is initialized.
+
+!ENTRY ch.qos.logback.classic 1 0 2025-04-02 08:30:21.003
+!MESSAGE Logback config file: /Users/alisson_dev/SintaxeJava/.metadata/.plugins/org.eclipse.m2e.logback/logback.2.7.0.20241001-1350.xml
