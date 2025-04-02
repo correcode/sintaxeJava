@@ -13,7 +13,7 @@ public class MinhaClasseJava {
 	}
 	
 	public static String nomeCompleto (String primeiroNome, String segundoNome) {
-		return primeiroNome + (" ") + (segundoNome);
+		return primeiroNome.concat(" ").concat(segundoNome);
 	}
 
 }
