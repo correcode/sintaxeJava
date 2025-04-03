@@ -1,0 +1,15 @@
+package tiposVariaveis;
+
+public class Tipos {
+	public static void main(String[] args) {
+		byte idade = 27;
+		
+		short anoAtual = 2025;
+		
+		double altura = 1.84;
+		
+		double dadosCompletos = dadosCompletos (idade + anoAtual + altura);
+		
+		System.out.println(dadosCompletos);
+	}
+}
