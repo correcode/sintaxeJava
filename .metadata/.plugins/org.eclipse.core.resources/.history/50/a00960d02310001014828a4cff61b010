@@ -1,0 +1,17 @@
+package tiposVariaveis;
+
+public class CalculadoraIdade {
+	public static void main(String[] args) {
+		
+		int idade = 27;
+		
+		int anoAtual = 2025;
+		
+ 		String anoNascimento = resultado (idade, anoAtual);
+ 		System.out.println("Seu ano de nascimento e: " + anoNascimento);	
+	}
+	
+ 		public static int resultado(int idade, int anoAtual) {
+ 			return anoAtual - idade;
+ 		}
+}
