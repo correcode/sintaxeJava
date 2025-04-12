@@ -8,8 +8,9 @@ public class OperadorTernario {
         a = 5;
         b = 6;
 
-        String resultado = a==b ? "verdadeiro" : "falso"; //Operador condicional ternario "?" ":"
-
-        System.out.println(resultado);
+        if (a==b) //exemplo condicional imprimindo direto resultado
+            System.out.println("verdadeiro");
+        else
+            System.out.println("falso");
     }
 }
