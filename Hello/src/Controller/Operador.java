@@ -5,7 +5,7 @@ public class Operador {
         
         Boolean variavel = true;
 
-        variavel = !variavel;
+        variavel = !variavel; //Operador de negacao "!"
 
         System.out.println(variavel);
 
