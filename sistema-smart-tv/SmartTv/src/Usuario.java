@@ -18,6 +18,8 @@ public class Usuario {
         
 
         smartTv.diminuirVolume();
+
+        smartTv.mudarCanal(29);
        
     }
 }
