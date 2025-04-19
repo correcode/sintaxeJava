@@ -18,17 +18,13 @@ import java.util.Scanner;
             int contaEntrada = scanner.nextInt();
             System.out.println("\nInforme sua senha: ");
             int senhaEntrada = scanner.nextInt();
-
+            
             if(conta == contaEntrada && senha == senhaEntrada) {
                 System.out.println("\nLogin efetuado com sucesso!");
                 System.out.println("Seu saldo atual: R$" + saldo);
 
                 System.out.println("Deseja realizar um saque ? ");
-                boolean opcao1 = true;
-                boolean opcao2 = false;
-
-                
-
+                System.out.println("ola de novo");
                 System.out.println("Qual valor ? ");
                 int saque = scanner.nextInt();
 
