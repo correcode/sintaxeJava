@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="nubank">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/nubank.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
